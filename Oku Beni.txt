@@ -1,0 +1,4 @@
+[1] Otomasyonu Dist klasörü içerisinde bulunan eklemeOtomasyonuV3 isimli dosya ile Çalıştırabilirsiniz.
+
+
+[2] Oluşturduğunuz eksik listesi, Seçtiğiniz kaynak dosyasının bulunduğu konuma oluşturulacaktır.
